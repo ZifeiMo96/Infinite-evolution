@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>remotemonster_3/第三关远程上攻击1.png</file>
+        <file>remotemonster_3/第三关远程上攻击2.png</file>
+        <file>remotemonster_3/第三关远程下攻击1.png</file>
+        <file>remotemonster_3/第三关远程下攻击2.png</file>
+        <file>remotemonster_3/第三关远程向上1.png</file>
+        <file>remotemonster_3/第三关远程向上2.png</file>
+        <file>remotemonster_3/第三关远程向上3.png</file>
+        <file>remotemonster_3/第三关远程向下1.png</file>
+        <file>remotemonster_3/第三关远程向下2.png</file>
+        <file>remotemonster_3/第三关远程向下3.png</file>
+        <file>remotemonster_3/第三关远程向右1.png</file>
+        <file>remotemonster_3/第三关远程向右2.png</file>
+        <file>remotemonster_3/第三关远程向右3.png</file>
+        <file>remotemonster_3/第三关远程向右上1.png</file>
+        <file>remotemonster_3/第三关远程向右上2.png</file>
+        <file>remotemonster_3/第三关远程向右上3.png</file>
+        <file>remotemonster_3/第三关远程向右下1.png</file>
+        <file>remotemonster_3/第三关远程向右下2.png</file>
+        <file>remotemonster_3/第三关远程向右下3.png</file>
+        <file>remotemonster_3/第三关远程向左1.png</file>
+        <file>remotemonster_3/第三关远程向左2.png</file>
+        <file>remotemonster_3/第三关远程向左3.png</file>
+        <file>remotemonster_3/第三关远程向左上1.png</file>
+        <file>remotemonster_3/第三关远程向左上2.png</file>
+        <file>remotemonster_3/第三关远程向左上3.png</file>
+        <file>remotemonster_3/第三关远程向左下1.png</file>
+        <file>remotemonster_3/第三关远程向左下2.png</file>
+        <file>remotemonster_3/第三关远程向左下3.png</file>
+        <file>remotemonster_3/第三关远程右攻击1.png</file>
+        <file>remotemonster_3/第三关远程右攻击2.png</file>
+        <file>remotemonster_3/第三关远程右上攻击1.png</file>
+        <file>remotemonster_3/第三关远程右上攻击2.png</file>
+        <file>remotemonster_3/第三关远程右下攻击1.png</file>
+        <file>remotemonster_3/第三关远程右下攻击2.png</file>
+        <file>remotemonster_3/第三关远程左攻击1.png</file>
+        <file>remotemonster_3/第三关远程左攻击2.png</file>
+        <file>remotemonster_3/第三关远程左上攻击1.png</file>
+        <file>remotemonster_3/第三关远程左上攻击2.png</file>
+        <file>remotemonster_3/第三关远程左下攻击1.png</file>
+        <file>remotemonster_3/第三关远程左下攻击2.png</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>

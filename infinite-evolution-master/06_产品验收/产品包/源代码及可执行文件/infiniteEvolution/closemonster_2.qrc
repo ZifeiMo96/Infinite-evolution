@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>closemonster_2/向上1.png</file>
+        <file>closemonster_2/向上2.png</file>
+        <file>closemonster_2/向上3.png</file>
+        <file>closemonster_2/向下1.png</file>
+        <file>closemonster_2/向下2.png</file>
+        <file>closemonster_2/向下3.png</file>
+        <file>closemonster_2/向右1.png</file>
+        <file>closemonster_2/向右2.png</file>
+        <file>closemonster_2/向右3.png</file>
+        <file>closemonster_2/向右上1.png</file>
+        <file>closemonster_2/向右上2.png</file>
+        <file>closemonster_2/向右上3.png</file>
+        <file>closemonster_2/向右下1.png</file>
+        <file>closemonster_2/向右下2.png</file>
+        <file>closemonster_2/向右下3.png</file>
+        <file>closemonster_2/向左1.png</file>
+        <file>closemonster_2/向左2.png</file>
+        <file>closemonster_2/向左3.png</file>
+        <file>closemonster_2/向左上1.png</file>
+        <file>closemonster_2/向左上2.png</file>
+        <file>closemonster_2/向左上3.png</file>
+        <file>closemonster_2/向左下1.png</file>
+        <file>closemonster_2/向左下2.png</file>
+        <file>closemonster_2/向左下3.png</file>
+    </qresource>
+    <qresource prefix="/n">
+        <file>closemonster_2/向上1.png</file>
+        <file>closemonster_2/向上2.png</file>
+        <file>closemonster_2/向上3.png</file>
+        <file>closemonster_2/向下1.png</file>
+        <file>closemonster_2/向下2.png</file>
+        <file>closemonster_2/向下3.png</file>
+        <file>closemonster_2/向右1.png</file>
+        <file>closemonster_2/向右2.png</file>
+        <file>closemonster_2/向右3.png</file>
+        <file>closemonster_2/向右上1.png</file>
+        <file>closemonster_2/向右上2.png</file>
+        <file>closemonster_2/向右上3.png</file>
+        <file>closemonster_2/向右下1.png</file>
+        <file>closemonster_2/向右下2.png</file>
+        <file>closemonster_2/向右下3.png</file>
+        <file>closemonster_2/向左1.png</file>
+        <file>closemonster_2/向左2.png</file>
+        <file>closemonster_2/向左3.png</file>
+        <file>closemonster_2/向左上1.png</file>
+        <file>closemonster_2/向左上2.png</file>
+        <file>closemonster_2/向左上3.png</file>
+        <file>closemonster_2/向左下1.png</file>
+        <file>closemonster_2/向左下2.png</file>
+        <file>closemonster_2/向左下3.png</file>
+    </qresource>
+</RCC>

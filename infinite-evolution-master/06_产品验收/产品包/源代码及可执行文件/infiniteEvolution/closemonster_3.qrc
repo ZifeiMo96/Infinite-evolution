@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>closemonster_3/第三关近程上攻击1.png</file>
+        <file>closemonster_3/第三关近程上攻击2.png</file>
+        <file>closemonster_3/第三关近程下攻击1.png</file>
+        <file>closemonster_3/第三关近程下攻击2.png</file>
+        <file>closemonster_3/第三关近程向上1.png</file>
+        <file>closemonster_3/第三关近程向上2.png</file>
+        <file>closemonster_3/第三关近程向上3.png</file>
+        <file>closemonster_3/第三关近程向下1.png</file>
+        <file>closemonster_3/第三关近程向下2.png</file>
+        <file>closemonster_3/第三关近程向下3.png</file>
+        <file>closemonster_3/第三关近程向右1.png</file>
+        <file>closemonster_3/第三关近程向右2.png</file>
+        <file>closemonster_3/第三关近程向右3.png</file>
+        <file>closemonster_3/第三关近程向右上1.png</file>
+        <file>closemonster_3/第三关近程向右上2.png</file>
+        <file>closemonster_3/第三关近程向右上3.png</file>
+        <file>closemonster_3/第三关近程向右下1.png</file>
+        <file>closemonster_3/第三关近程向右下2.png</file>
+        <file>closemonster_3/第三关近程向右下3.png</file>
+        <file>closemonster_3/第三关近程向左1.png</file>
+        <file>closemonster_3/第三关近程向左2.png</file>
+        <file>closemonster_3/第三关近程向左3.png</file>
+        <file>closemonster_3/第三关近程向左上1.png</file>
+        <file>closemonster_3/第三关近程向左上2.png</file>
+        <file>closemonster_3/第三关近程向左上3.png</file>
+        <file>closemonster_3/第三关近程向左下1.png</file>
+        <file>closemonster_3/第三关近程向左下2.png</file>
+        <file>closemonster_3/第三关近程向左下3.png</file>
+        <file>closemonster_3/第三关近程右攻击1.png</file>
+        <file>closemonster_3/第三关近程右攻击2.png</file>
+        <file>closemonster_3/第三关近程右上攻击1.png</file>
+        <file>closemonster_3/第三关近程右上攻击2.png</file>
+        <file>closemonster_3/第三关近程右下攻击1.png</file>
+        <file>closemonster_3/第三关近程右下攻击2.png</file>
+        <file>closemonster_3/第三关近程左攻击1.png</file>
+        <file>closemonster_3/第三关近程左攻击2.png</file>
+        <file>closemonster_3/第三关近程左上攻击1.png</file>
+        <file>closemonster_3/第三关近程左上攻击2.png</file>
+        <file>closemonster_3/第三关近程左下攻击1.png</file>
+        <file>closemonster_3/第三关近程左下攻击2.png</file>
+    </qresource>
+</RCC>
